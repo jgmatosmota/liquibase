@@ -28,11 +28,11 @@
 			<scope>test</scope>
 		</dependency>
 
-		<dependency>
+		<!--<dependency>
 			<groupId>org.jenkins-ci.plugins</groupId>
 			<artifactId>docker-workflow</artifactId>
 			<version>563.vd5d2e5c4007f</version>
-		</dependency>
+		</dependency>-->
 
 		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
 		<dependency>
