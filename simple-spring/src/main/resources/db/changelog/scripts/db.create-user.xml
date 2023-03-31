@@ -5,9 +5,9 @@ xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
 xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd
 http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
 
-    <changeSet author="ze" id="10">
+    <changeSet author="ze" id="1">
 
-        <createTable tableName="teste123">
+        <createTable tableName="fodasseeeeeeee">
             <column autoIncrement="true" name="DROGA" type="BIGINT">
                 <constraints primaryKey="true" nullable="false"/>
             </column>
