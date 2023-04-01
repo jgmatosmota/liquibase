@@ -5,10 +5,10 @@ xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
 xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd
 http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
 
-    <changeSet author="ze" id="2">
+    <changeSet author="ze" id="3">
 
-        <createTable tableName="olivas1k">
-            <column autoIncrement="true" name="DROGA" type="BIGINT">
+        <createTable tableName="NATHANZAO">
+            <column autoIncrement="true" name="olha" type="BIGINT">
                 <constraints primaryKey="true" nullable="false"/>
             </column>
             <column name="eae" type="VARCHAR(255)"/>
